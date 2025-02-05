@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p-1",
+    "name": "Trekangle - E-commerce",
+    "description_es": "Plataforma diseñada para gestionar reservas de actividades ecológicas y turísticas, con una interfaz intuitiva que optimiza la experiencia del usuario. Incluye un sistema dinámico de búsqueda y filtrado, Uso de google maps para la ubicacion de las experiencias y mucho más.",
+    "description_en": "Platform designed to manage reservations of ecological and tourist activities, with an intuitive interface that optimizes the user experience. Includes a dynamic search and filter system, use of google maps for location of experiences and much more.",
+    "technologies": ["Angular", "Nodejs", "MongoDB", "Express", "Supabase"],
+    "images": [
+      "https://kilker1.github.io/Portfolio-Database/assets/project_trekangle_1.webp",
+      "https://kilker1.github.io/Portfolio-Database/assets/project_trekangle_2.webp"
+    ],
+    "url": "https://trekangle.web.app/",
+    "github_url": "https://github.com/JuanesPachon/web-trekangle-client"
+  },
+
+  {
+    "id": "p-2",
+    "name": "Paraiso Paipa - Landing Page",
+    "description_es": "Es una landing page optimizada para captar usuarios interesados en experiencias de conducción en buggy, con diseño responsivo, tiempos de carga rápidos y estructura SEO-friendly ademas esta diseñada con un enfoque en el usuario, priorizando la velocidad, accesibilidad y usabilidad.",
+    "description_en": "It is a landing page optimized to capture users interested in driving experiences in buggy, with a responsive design, fast loading times and SEO-friendly structure, this design is also focused on the user, prioritizing speed, accessibility and usability.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "images": [
+      "https://kilker1.github.io/Portfolio-Database/assets/project_landing.webp",
+      "https://kilker1.github.io/Portfolio-Database/assets/project_landing_2.webp"
+    ],
+    "url": "https://paraiso-paipa.vercel.app/",
+    "github_url": "https://github.com/JuanesPachon/Landing-Page-JP"
+  },
+
+  {
+    "id": "p-3",
+    "name": "BIT Cook - Web page",
+    "description_es": "Esta página de recetas, un esfuerzo experimental, sirve como plataforma para probar y mostrar la destreza del diseño frontal, ofreciendo una visión tentadora del mundo de la creatividad culinaria y esta página web puede ser útil para representar un negocio culinario.",
+    "description_en": "An experimental endeavor, this recipe page serves as a platform to test and showcase front-end design prowess, offering a tantalizing glimpse into the world of culinary creativity and this web page may be useful to represent a cuulinary business.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "images": [
+      "https://kilker1.github.io/Portfolio-Database/assets/project_recipes.webp",
+      "https://kilker1.github.io/Portfolio-Database/assets/project_recipes_2.webp"
+    ],
+    "url": "https://bit-cook.vercel.app/",
+    "github_url": "https://github.com/JuanesPachon/BIT-Cook-Final-Project"
+  },
+
+  {
+    "id": "p-4",
+    "name": "Alura Encrytor - Web page",
+    "description_es": "Página web diseñada como proyecto de prueba para Alura Latam, esta aplicación web ofrece funciones de cifrado y descifrado de texto, sirviendo como una herramienta integral para la comunicación segura de datos y tiene la posibilidad de mejorar la calidad de las funciones.",
+    "description_en": "Web page designed as a test project for Alura Latam, this web application offers text encryption and decryption features, serving as a comprehensive tool for secure data communication and it has the posibility to improve the functions quality.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "images": [
+      "https://kilker1.github.io/Portfolio-Database/assets/project_encryptor.webp",
+      "https://kilker1.github.io/Portfolio-Database/assets/project_encryptor_2.webp"
+    ],
+    "url": "https://encriptador-jp.vercel.app/",
+    "github_url": "https://github.com/JuanesPachon/Encriptador-JP"
+  }
+]

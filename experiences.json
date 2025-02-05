@@ -1,0 +1,18 @@
+[
+    {
+        "id": "e-1",
+        "name": "Foo Talent Group",
+        "date_es": "Sep 2024 - Oct 2024",
+        "date_en": "Sep 2024 - Oct 2024",
+        "description_es": "Trabajé en 'Mi Negocio', una plataforma web innovadora para la gestión centralizada de negocios, integrando ventas a través de canales de mensajería y un catálogo de productos. Desarrollé componentes de interfaz de usuario dinámicos y responsivos utilizando Angular y Tailwind CSS, asegurando una navegación intuitiva. Implementé un flujo de autenticación seguro con gestión de tokens e integré APIs RESTful para sincronizar datos de usuarios y productos. Este proyecto, desarrollado en un equipo ágil y colaborativo, fortaleció mis habilidades técnicas y de trabajo en equipo. También profundizó mi comprensión sobre la creación de soluciones escalables y fáciles de usar para desafíos empresariales del mundo real.",
+        "description_en": "I worked on 'Mi Negocio', an innovative web platform for centralized business management, integrating sales throughmessaging channels and a product catalog. I developed dynamic and responsive UI components using Angular and TailwindCSS, ensuring intuitive navigation. I implemented a secure authentication flow with token management and integratedRESTful APIs to synchronize user and product data. This project, developed in a collaborative agile team, strengthenedmy technical and teamwork skills. It also deepened my understanding of building scalable and user-friendly solutions forreal-world business challenges."
+    },
+    {
+        "id": "e-2",
+        "name": "BIT Build Innovate Transform",
+        "date_es": "Feb 2024 - Ago 2024",
+        "date_en": "Feb 2024 - Aug 2024",
+        "description_es": "Durante el Curso de Programación Full Stack de BIT, participé en un Proyecto Integrador donde desarrollé una plataforma de E-Commerce para experiencias turísticas. Fui responsable de la planificación, creación del servidor web y gestión de la base de datos, asegurando un backend robusto. En el frontend, diseñé la interfaz de usuario con un enfoque en UX/UI e integré datos mediante APIs. Utilicé tecnologías como HTML, CSS, TypeScript, Angular y Node.js para construir una plataforma funcional y dinámica. Esta experiencia fortaleció mis habilidades técnicas y mi capacidad para gestionar proyectos de gran escala.",
+        "description_en": "During the Full Stack Programming Course at BIT, I participated in a Capstone Project where I developed an E-Commerceplatform for tourism experiences. I was responsible for planning, creating the web server, and managing thedatabase, ensuring a robust backend. On the frontend, I designed the user interface with a focus on UX/UI andintegrated data using APIs. I utilized technologies such as HTML, CSS, TypeScript, Angular, and Node.js to build afunctional and dynamic platform. This experience strengthened my technical skills and my ability to managefull-scale projects."
+    }
+]
